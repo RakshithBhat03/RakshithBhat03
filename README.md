@@ -7,7 +7,7 @@
 
 ---
 
-[![Rakshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=RakshithBhat03)](https://github.com/anuraghazra/github-readme-stats)
+[![Rakshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=RakshithBhat03&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 RakshithBhat03/RakshithBhat03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
