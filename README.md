@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Rakshith</h1>
 <h3 align="center">AI Developer at Wipro</h3>
 
-![](https://komarev.com/ghpvc/?username=RakshithBhat03&label=PROFILE+VIEWS)
+[![Twitter Follow]https://img.shields.io/twitter/follow/RakshithBhat1?color=1DA1F2&logo=twitter&style=for-the-badge](https://twitter.com/intent/follow?&screen_name=RakshithBhat1)
 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript | React JS
