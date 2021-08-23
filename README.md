@@ -10,13 +10,13 @@
 
 <p align="left">
     <h3 align="left">Connect with me:</h3>
-    <a href="https://twitter.com/RakshithBhat1" target="blank"><img align="center"
+    <a href="https://twitter.com/RakshithBhat1" target="_blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Rakshith Bhat" height="30"
             width="40" /></a>
-    <a href="https://www.linkedin.com/in/rakshithbhat/" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/rakshithbhat/" target="_blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Rakshith Bhat" height="30"
             width="40" /></a>
-    <a href="https://www.instagram.com/rakshith.bhat.3/" target="blank"><img align="center"
+    <a href="https://www.instagram.com/rakshith.bhat.3/" target="_blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Rakshith Bhat" height="30"
             width="40" /></a>
 </p>
