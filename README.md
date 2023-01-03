@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript | React JS
-- 🏀 NBA Fan | LA Clippers
+- 🏀 NBA Fan 
 - 📫 You can reach me at: rakshith6666@gmail.com
 
 <p align="left">
